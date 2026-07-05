@@ -10,7 +10,7 @@ import anthropic
 from core import db, prompts
 
 MODEL = "claude-sonnet-4-6"
-MAX_TOKENS = 4000
+MAX_TOKENS = 9000
 
 
 @st.cache_resource
