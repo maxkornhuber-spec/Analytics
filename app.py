@@ -1,3 +1,4 @@
+#v4
 """DEIN ANALYSTENTEAM v2 - persoenliche Fundamental-Analyse-App.
 
 Streamlit + Supabase + Claude API. Privat, geschuetzt durch Zugangscode.
